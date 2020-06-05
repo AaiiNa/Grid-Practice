@@ -1,0 +1,209 @@
+.container {
+    display: grid;
+    background-color: #202E38;
+    height: 100vh;
+    width: 100%;
+    grid-template-columns: repeat(9, 100px);
+    grid-template-rows: repeat(9, 100px);
+    grid-gap: /* frist row then columns*/
+    10px 15px;
+    justify-content: center;   
+    padding-top: 2%;
+    
+}
+
+
+.li {
+    border: 2px solid #EAEE8D;
+    color: #EAEE8D;
+    text-align: center;
+    grid-column: 1/2;
+ 
+}
+
+.fb {
+    border: 2px solid #EAEE8D;
+    color: #EAEE8D;
+    text-align: center;
+    grid-column: 2/3;
+}
+
+.db {
+    border: 2px solid #4aa8e1;
+    color: #4aa8e1;
+    text-align: center;
+    grid-column: 7/8;
+}
+
+.ct {
+    width: 100px;
+    height: 100px;
+    background-color: #9AD75A;
+    color: #222222;
+    text-align: center;
+}
+
+.si {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+.wk {
+    border: 2px solid #df6d66;
+    color:  #df6d66;
+    text-align: center;
+}
+
+.sp {
+    border: 2px solid #df6d66;
+    color:  #df6d66;
+    text-align: center;
+}
+
+.tw {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+.tc {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+.gt {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+.yn {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+.ii {
+    border: 2px solid #4aa8e1;
+    color: #4aa8e1;
+    text-align: center;
+}
+
+.te {
+    border: 2px solid #4aa8e1;
+    color: #4aa8e1;
+    text-align: center;
+}
+
+.wu {
+    border: 2px solid #4aa8e1;
+    color: #4aa8e1;
+    text-align: center;
+}
+
+.cv {
+    border: 2px solid #df6d66;
+    color:  #df6d66;
+    text-align: center;
+}
+
+.dg {
+    border: 2px solid #df6d66;
+    color:  #df6d66;
+    text-align: center;
+}
+
+.tg {
+    border: 2px solid #df6d66;
+    color:  #df6d66;
+    text-align: center;
+}
+
+.gg {
+    border: 2px solid #4aa8e1;
+    color: #4aa8e1;
+    text-align: center;
+}
+
+.ex {
+    border: 2px solid #4aa8e1;
+    color: #4aa8e1;
+    text-align: center;
+}
+
+.so {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+.cd {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+.cp {
+    border: 2px solid #4aa8e1;
+    color: #4aa8e1;
+    text-align: center;
+}
+
+.tr {
+    border: 2px solid #4aa8e1;
+    color: #4aa8e1;
+    text-align: center;
+}
+
+.in {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+    grid-column: 2/3;
+}
+
+.mu {
+     
+    border: 2px solid #df6d66;
+    color:  #df6d66;
+    text-align: center;
+}
+
+.me {
+    border: 2px solid #df6d66;
+    color:  #df6d66;
+    text-align: center;
+}
+
+.no {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+.re {  border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+.rd {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+.st {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+.ad {
+    border: 2px solid #9AD75A ;
+    color:  #9AD75A;
+    text-align: center;
+}
+
+ 
